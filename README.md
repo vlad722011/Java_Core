@@ -5,7 +5,7 @@
 
 ##### Собрали контейнер
 
-![build](/HomeWork_One/source/build.png)
+![build](/source/build.png)
 
 
 ##### Запускаем контейнер из образа
