@@ -8,8 +8,8 @@
 
 
 ##### Запускаем контейнер из образа
-![build](/HomeWork_One/source/Run.png)
+![run](/HomeWork_One/source/Run.png)
 
 
 ##### Компиляция, запуск приложения, создание документации
-![build](/HomeWork_One/source/compile_start_docs.png)
+![start](/HomeWork_One/source/compile_start_docs.png)
