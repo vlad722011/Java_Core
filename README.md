@@ -14,3 +14,9 @@
 
 ##### Компиляция, запуск приложения, создание документации
 ![start](/HomeWork_One/source/compile_start_docs.png)
+
+
+
+
+
+
